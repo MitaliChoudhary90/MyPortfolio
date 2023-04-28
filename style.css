@@ -1,0 +1,93 @@
+body{
+    background-image: linear-gradient(#f06448,#f08a75);
+}
+.logo{
+    float: right;
+    /*margin-top: 15vh;*/
+}
+#header{
+    height: 20vh;
+    padding: 2em;
+    padding-top: 7em;
+    
+}
+h1{
+    color: #0e0b0e;
+    
+}
+nav{
+    height: 6vh;
+    /*background-color: rgb(185, 243, 144);*/
+    padding: 10px;
+    text-decoration-color:black ;
+}
+a{
+    font-size: x-large;
+    margin: 15px;
+    
+}
+nav a{
+    color: black;
+    text-decoration:none ;
+}
+main div{
+    display: inline-block;
+    width: 40vw;
+    padding: 5vh;
+    text-align:justify;
+
+    
+    
+}
+#div1{
+    padding-top:5vh ;
+    margin-left: 12vh;
+    background-color: rgba(167, 239, 236, 0.3);
+    
+}
+#div2{
+    padding-top: 3vh;
+    background-color: rgba(191, 237, 121, 0.3);
+    margin-top: 0px;
+    
+    
+}
+.form{
+    /*background-color: rgb(170, 248, 163);*/
+    height: 50vh;
+    text-align: center;
+    padding: 2vh;
+    
+}
+.title{
+    font-size: 4vh;
+}
+.box{
+    width: 30vw;
+    height: 6vh;
+}
+button{
+    margin: 4vh;
+    height: 10vh;
+    width: 15vw;
+    background-color: rgb(140, 244, 60);
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 10px;
+}
+footer{
+    height: 10vh;
+    /*background-color: rgb(204, 252, 170);*/
+    padding: 6vh;
+    font-size:x-large;
+}
+#foot{
+    float: right;
+    
+}
+p{
+    font-size: 25px;
+}
+.headings{
+    font-size: 30px;
+}
